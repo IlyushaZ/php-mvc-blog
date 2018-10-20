@@ -1,7 +1,5 @@
 <?php
 
-require 'dev.php';
-
 use Application\Core\Router;
 
 spl_autoload_register(function($class){
