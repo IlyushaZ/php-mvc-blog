@@ -44,7 +44,7 @@ class Admin extends Model
             'name' => $post['name'],
             'description' => $post['description'],
             'text' => $post['text'],
-            'author' => 'Кристина',
+            'author' => 'Admin',
             'datetime' => date('Y/m/d H:i:s')
         ];
 
